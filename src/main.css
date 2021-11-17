@@ -3,7 +3,8 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: black;
-    background-image: url('https://cdn.pixabay.com/photo/2019/11/11/08/54/marshmallow-4617656_960_720.jpg');
+    /* background-image: url('https://cdn.pixabay.com/photo/2019/11/11/08/54/marshmallow-4617656_960_720.jpg'); */
+    background-image: url('../marshmallow-4617656.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
